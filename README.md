@@ -12,16 +12,13 @@ A basic react native app with [`react-native-firebase`](https://github.com/inver
 > This project has been set up for Android system only. Please skip the steps for **[iOS]**
 
 #### 1) Clone & Install Dependencies
-
+**You will need to be running Node version 7.6 or greater for the rename functionality to work**
 - 1.1) `git clone this repo`
 - 1.2) `cd front-end-app` - cd into your newly created project directory.
 - 1.3) Install NPM packages with your package manager of choice - i.e run `yarn` or `npm install`
 - 1.4) **[iOS]** `cd ios` and run `pod install` - if you don't have CocoaPods you can follow [these instructions](https://guides.cocoapods.org/using/getting-started.html#getting-started) to install it.
 - 1.5) **[Android]** No additional steps for android here.
 
-#### 2) Rename Project
-
-**You will need to be running Node version 7.6 or greater for the rename functionality to work**
 
 #### 3) Add `Google Services` files (plist & JSON)
 
