@@ -36,4 +36,4 @@ If all has gone well you'll see an initial screen like the one below.
   
 ## Screenshots
 
-![preview](https://i.imgur.com/4lG4HuS.png)
+![preview](https://github.com/zooteamworkspace/front-end-app/blob/master/doc/images/2019-04-20_11-44-05.jpg)
