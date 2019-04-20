@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "717071877321",
+    "firebase_url": "https://ingredientslookup.firebaseio.com",
+    "project_id": "ingredientslookup",
+    "storage_bucket": "ingredientslookup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717071877321:android:34c7c6eab91b5fd7",
+        "android_client_info": {
+          "package_name": "com.hn.ingredientslookup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717071877321-m8dbl5kd65mic4lpr9ijgfdn3vpm4sim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrep9CNpKvcu6Zh6zAYwXL8W8s8mGuFy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717071877321-m8dbl5kd65mic4lpr9ijgfdn3vpm4sim.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

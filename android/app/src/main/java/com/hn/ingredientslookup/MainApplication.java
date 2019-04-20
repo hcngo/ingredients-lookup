@@ -1,4 +1,4 @@
-package com.invertase.rnfirebasestarter;
+package com.hn.ingredientslookup;
 
 import android.app.Application;
 
